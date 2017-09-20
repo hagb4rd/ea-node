@@ -1,0 +1,23 @@
+{
+  "name": "ea-node-core",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./index.js",
+  "bin": {
+    "ea-node-core": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hagb4rd/ea-node-core.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "init": "./scripts/init.bat"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "hagb4rd@gmail.com",
+  "license": "MIT"
+}
