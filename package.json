@@ -1,6 +1,6 @@
 {
   "name": "ea-node-core",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "",
   "main": "./index.js",
   "bin": {
@@ -16,7 +16,7 @@
     "init": "./scripts/init.bat"
   },
   "keywords": [
-    "template"
+    "node, internal, resources"
   ],
   "author": "hagb4rd@gmail.com",
   "license": "MIT"
